@@ -1,4 +1,4 @@
-package com.capestone.ingestion;
+package com.capestone.ingestion.main;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
